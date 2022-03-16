@@ -22,41 +22,5 @@
         "nombre": "Alexis",
         "capturado": "Brenda",
         "status": 1
-    },
-    {
-        "id": 5,
-        "nombre": "Omar",
-        "capturado": "Luis",
-        "status": 1
-    },
-    {
-        "id": 6,
-        "nombre": "Oscar",
-        "capturado": "Luis",
-        "status": 1
-    },
-    {
-        "id": 7,
-        "nombre": "Jose",
-        "capturado": "Juan",
-        "status": 1
-    },
-    {
-        "id": 8,
-        "nombre": "Ricardo",
-        "capturado": "Leon",
-        "status": 0
-    },
-    {
-        "id": 9,
-        "nombre": "Mendieta",
-        "capturado": "Osmar",
-        "status": 1
-    },
-    {
-        "id": 10,
-        "nombre": "Nieves",
-        "capturado": "",
-        "status": 0
     }
 ]
