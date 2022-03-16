@@ -1,61 +1,62 @@
-[{
+[
+   {
         "id": 1,
         "nombre": "Ricardo",
-        "captirado": "Luis",
+        "capturado": "Luis",
         "status": 0
     },
     {
         "id": 2,
         "nombre": "Alan",
-        "captirado": "Luis",
+        "capturado": "Luis",
         "status": 1
     },
     {
         "id": 3,
         "nombre": "Mauricio",
-        "captirado": "Luis",
+        "capturado": "Luis",
         "status": 1
     },
     {
         "id": 4,
         "nombre": "Alexis",
-        "captirado": "Brenda"
+        "capturado": "Brenda",
         "status": 1
     },
     {
         "id": 5,
         "nombre": "Omar",
-        "captirado": "Luis",
+        "capturado": "Luis",
         "status": 1
     },
     {
         "id": 6,
         "nombre": "Oscar",
-        "captirado": "Luis",
+        "capturado": "Luis",
         "status": 1
     },
     {
         "id": 7,
         "nombre": "Jose",
-        "captirado": "Juan",
+        "capturado": "Juan",
         "status": 1
     },
     {
         "id": 8,
         "nombre": "Ricardo",
-        "captirado": "Leon",
+        "capturado": "Leon",
         "status": 0
     },
     {
         "id": 9,
         "nombre": "Mendieta",
-        "captirado": "Osmar",
+        "capturado": "Osmar",
         "status": 1
     },
     {
         "id": 10,
         "nombre": "Nieves",
-        "captirado": "",
+        "capturado": "",
         "status": 0
     }
 ]
