@@ -1,19 +1,19 @@
 {
     "usuarios": [{
             "user": "Ricardo",
-            "passsword": "12345"
+            "password": "12345"
         },
         {
             "user": "Luis",
-            "passsword": "12345"
+            "password": "12345"
         },
         {
             "user": "Fernando",
-            "passsword": "12345"
+            "password": "12345"
         },
                  {
             "user": "Irving",
-            "passsword": "12345"
+            "password": "12345"
         }
     ]
 }
