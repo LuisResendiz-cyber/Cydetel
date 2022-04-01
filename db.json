@@ -1,18 +1,13 @@
-{
-    "usuarios": [{
-            "id": 1,
-            "user": "Ricardo",
-            "passsword": "12345"
-        },
-        {
-            "id": 2,
-            "user": "Luis",
-            "passsword": "12345"
-        },
-        {
-            "id": 3,
-            "user": "Fernando",
-            "passsword": "12345"
-        }
-    ]
-}
+[{
+        "user": "Luis",
+        "password": "12345678"
+    },
+    {
+        "user": "Fernando",
+        "password": "12345678"
+    },
+    {
+        "user": "Ricardo",
+        "password": "12345678"
+    }
+]
