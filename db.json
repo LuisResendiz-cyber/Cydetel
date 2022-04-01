@@ -1,64 +1,18 @@
 {
-    "datos": [{
+    "usuarios": [{
             "id": 1,
-            "nombre": "Ricardo",
-            "capturado": "Luis",
-            "status": 0
+            "user": "Ricardo",
+            "passsword": "12345"
         },
         {
             "id": 2,
-            "nombre": "Alan",
-            "capturado": "Luis",
-            "status": 1
+            "user": "Luis",
+            "passsword": "12345"
         },
         {
             "id": 3,
-            "nombre": "Mauricio",
-            "capturado": "Luis",
-            "status": 1
-        },
-        {
-            "id": 4,
-            "nombre": "Alexis",
-            "capturado": "Brenda",
-            "status": 1
-        },
-        {
-            "id": 5,
-            "nombre": "Omar",
-            "capturado": "Luis",
-            "status": 1
-        },
-        {
-            "id": 6,
-            "nombre": "Oscar",
-            "capturado": "Luis",
-            "status": 1
-        },
-        {
-            "id": 7,
-            "nombre": "Jose",
-            "capturado": "Juan",
-            "status": 1
-        },
-        {
-            "id": 8,
-            "nombre": "Ricardo",
-            "capturado": "Leon",
-            "status": 0
-        },
-        {
-            "id": 9,
-            "nombre": "Mendieta",
-            "capturado": "Osmar",
-            "status": 1
-        },
-        {
-            "id": 10,
-            "nombre": "Nieves",
-            "capturado": "Omar",
-            "status": 0
+            "user": "Fernando",
+            "passsword": "12345"
         }
     ]
 }
-
