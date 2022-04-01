@@ -1,13 +1,13 @@
-{
-            "user": "Ricardo",
-            "password": "12345"
-        },
-        {
-            "user": "Luis",
-            "password": "12345"
-        },
-        {
-            "user": "Fernando",
-            "password": "12345"
-        }
-    ]
+[{
+        "user": "Ricardo",
+        "password": "12345"
+    },
+    {
+        "user": "Luis",
+        "password": "12345"
+    },
+    {
+        "user": "Fernando",
+        "password": "12345"
+    }
+]
